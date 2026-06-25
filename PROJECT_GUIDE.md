@@ -171,7 +171,7 @@ This folder currently has no functional code.
 
 PlatformIO's explanation of its unit-testing folder.
 
-### `test/sensortest.cpp`
+### `test/sensor_test.cpp`
 
 An empty, zero-byte placeholder. It performs no test and PlatformIO has no real test suite yet.
 
